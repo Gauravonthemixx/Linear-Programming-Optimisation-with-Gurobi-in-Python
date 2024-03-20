@@ -34,4 +34,5 @@
 ### Output: 
 * Objective function value and optimal values of all decision variables are printed.
 
-## 📖 Please go through for more info
+## 📖 Please go through [IIA.pdf](https://github.com/Gauravonthemixx/Linear-Programming-Optimisation-with-Gurobi-in-Python/files/14659272/Linear-Programming-Optimization-HDL.pdf)
+ for more info
