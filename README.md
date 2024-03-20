@@ -21,3 +21,15 @@
 *The model is solved to maximize the objective function.
 ### Output: 
 * Objective function value and optimal values of decision variables are printed.-
+
+## 📝 Second Linear Program:
+
+*Additional decision variables (P1, P2, P3) are introduced representing profits under different scenarios.
+### Objective function: 
+* Maximize the sum of profits (0.33*(P1 + P2 + P3)).
+### Constraints: 
+* New constraints (c4 to c9) are added to relate profits to the quantities from the first problem and impose minimum profit requirements.
+### Optimization: 
+* The extended model is solved.
+### Output: 
+* Objective function value and optimal values of all decision variables are printed.
