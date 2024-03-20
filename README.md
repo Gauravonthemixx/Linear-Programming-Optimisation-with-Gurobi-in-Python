@@ -33,3 +33,5 @@
 * The extended model is solved.
 ### Output: 
 * Objective function value and optimal values of all decision variables are printed.
+
+## 📖 Please go through for more info
